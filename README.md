@@ -1,4 +1,4 @@
-This repository contains the final project for the unit **BUSA8001: Applied Predictive Analytics**, completed as part of the Master of Business Analytics program at Macquarie University. The project applies data analytics and machine learning techniques to a large transactional dataset from **LuminaTech Lighting**, focusing on uncovering key drivers of sales and cost margins across products, customers, and partners.
+This repository contains the final project for the unit **BUSA8001: Applied Predictive Analytics**, completed as part of the Master of Business Analytics program at Macquarie University. The project applies data analytics and machine learning techniques to a large transactional dataset from **Airbnb Listing in Melbourne, Australia**
 
 ## 📁 Project Structure
 `BUSA8001_Final.ipynb`: Main Jupyter Notebook containing all data processing, analysis, regression modeling, and visualizations.
